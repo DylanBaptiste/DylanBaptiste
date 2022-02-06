@@ -1,16 +1,27 @@
-### Hi there 👋
+Account age: **2** years
 
-<!--
-**DylanBaptiste/DylanBaptiste** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Pushed **236** commits
 
-Here are some ideas to get you started:
+Opened **0** issues
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Submitted **0** pull requests
+
+Reviewed **{{ CODE_REVIEWS }}** pull requests
+
+Received **1** stars
+
+Own **23** repositories
+
+Contributed to **1** public repositories
+
+Top 8 most used languages across your repositories:
+
+![HTML](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23e34c26&message=HTML%EF%B8%B165.6%25)
+![Jupyter Notebook](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23DA5B0B&message=Jupyter%20Notebook%EF%B8%B134%25)
+![Other](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23ededed&message=Other%EF%B8%B10.2%25)
+
+Top 4 most used languages across your repositories:
+
+![HTML](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23e34c26&message=HTML%EF%B8%B165.6%25)
+![Jupyter Notebook](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23DA5B0B&message=Jupyter%20Notebook%EF%B8%B134%25)
+![Other](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23ededed&message=Other%EF%B8%B10.2%25)
