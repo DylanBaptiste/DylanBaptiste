@@ -1,5 +1,5 @@
 Depuis **2** ans sur Github.  
-J'ai éffectué **299** commits et reçus **1** ⭐ au travers des **26** dépots que je maintiens.
+J'ai éffectué **300** commits et reçus **1** ⭐ au travers des **27** dépots que je maintiens.
 
 🧠Passionné dans les dommaines de l'IA et la visualisation de données  
 🥋 Je pratique un art martial depuis plus de 20 ans en club  
