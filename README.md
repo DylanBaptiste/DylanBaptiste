@@ -1,4 +1,4 @@
-Depuis **2** ans sur Github.  
+Depuis **3** ans sur Github.  
 J'ai éffectué **317** commits et reçus **1** ⭐ au travers des **29** dépots que je maintiens.
 
 🧠Passionné dans les dommaines de l'IA et la visualisation de données  
